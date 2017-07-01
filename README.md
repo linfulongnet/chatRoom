@@ -1,4 +1,4 @@
 # chatRoom
 this is s chatRoom,use webSocket and node
 
-# use node run server to listen port 8888
+# use node run server.js to listen port 8888
